@@ -1,6 +1,6 @@
 # PITFishHoronai
  https://rfutamura.github.io/PITFishHoronai/
-This app visualizes the fish location based on the fish location data collected from the capture-mark-recapture surey and monthly portable antenna survey in Horonai River. Developed by Ryo Futamura, Ph.D. (rfutamurattg[at]gmail.com)
+This app visualizes the fish location in upper Horonai River based on the fish location data collected from the capture-mark-recapture surey and monthly portable antenna survey. Developed by Ryo Futamura, Ph.D. (rfutamurattg[at]gmail.com)
 
 
 # Instruction
